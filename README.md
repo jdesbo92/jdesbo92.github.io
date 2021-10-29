@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Desbonnet</h1>
-<h3 align="center">Human Geography, GIS Sciences, Political Geography research</h3>
+<h3 align="left">Human Geography, GIS Sciences, Political Geography research</h3>
 
 - 🔭 I’m currently working on [politics of spatial data access in coastal territories and urban studies](https://www-iuem.univ-brest.fr/pops/projects/ainfogeo)
 
